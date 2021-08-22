@@ -2,8 +2,6 @@
 
 ## La segunda vida de los polímeros, ¿La conocias?
 
-### Introducción
-
 ## ¿Qué es un polímero? 
 
 Un polímero es una cadena de unidades de repetición o monómeros que se unen y repiten formando una macromolécula (decenas de millones de unidades repetidas) o polímero.
