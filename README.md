@@ -74,14 +74,14 @@ Es un programa eficiente y que puede identificar el plástico aunque la imagen s
 
 
 ### Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
+ ¡Disfruta del pequeño video que tenemos para ti!
+ 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/YLPtFw4Pwx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- 2. Puedes encontrar nuestro video seleccionando las letras en azul, [nuestro video](https://youtu.be/YLPtFw4Pwx0).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+También puedes encontrar el video seleccionando las letras en azul, [nuestro video](https://youtu.be/YLPtFw4Pwx0).
+
  
 ### Equipo
-
 * Johanna López Jáurez
 * Flor Esmeralda Contreras Escobar
 
