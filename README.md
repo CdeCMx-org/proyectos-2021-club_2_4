@@ -37,15 +37,15 @@ El objetivo de la ODS nos plantea que para lograr un crecimiento económico y de
 
 En el club vimos lo que era un polímero, así como diversas características de ellos, nuestro problema es el identificar botellas pet, el cual es un material que puede reciclarse o reutilizarse en la elaboración de algún otro material a base de un programa de identificación.  
 
-## Sabías que  
+## Sabías que... 
 
-El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de efecto invernadero (CO2) a la atmósfera, ya que reducen el consumo de combustibles fósiles. Además su producción con el polímero reciclado requiere menor energía que con el polímero virgen.
+El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de efecto invernadero a la atmósfera, ya que reducen el consumo de combustibles fósiles. Además su producción con el polímero reciclado requiere menor energía que con el polímero virgen.
 
 ![](untitled-3.png)
 
 ### Métodología
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+
 
 ### Resultados
 
