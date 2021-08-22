@@ -54,7 +54,7 @@ A continuación se describen los pasos que se llevaron acabo para poder obtener 
 
 Desafortunadamente por el tiempo no logramos concretar la práctica, sin embargo los resultados esperados son los siguientes:
 
-<img src="Botella_pet_1.png" width=400>, <img src="Botella_pet_2.png" width=400>
+<img src="Botella_pet_1.png" width=300>, <img src="Botella_pet_2.png" width=300>
 
 Gracias al etiquetado de YOLO se pueden identificar en tiempo real, en este caso, las botellas de PET (ya que únicamente, se le indicó al programa que identificara este polímero)
 
@@ -62,7 +62,7 @@ La clasificación de los polímeros, a veces puede ser un poco costosa, ya que s
 
 Es un programa eficiente y que puede identificar el plástico aunque la imagen sea borrosa, como es el caso siguiente:
 
-<img src="Botella_pet_borrosa.png" width=400>
+<img src="Botella_pet_borrosa.png" width=300>
 
 
 ### Conclusiones
@@ -75,9 +75,9 @@ Es un programa eficiente y que puede identificar el plástico aunque la imagen s
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://youtu.be/G-BUlBx3gPE" title="CLUB 2_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://youtu.be/YLPtFw4Pwx0" title="CLUB 2_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
+ 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/YLPtFw4Pwx0).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
 ### Equipo
