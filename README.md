@@ -45,30 +45,37 @@ El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de ef
 
 ### Métodología
 
-A continuación se describen los pasos que se llevaron acabo para poder obtener nuestra clasificación de polímeros por medio de learning machine.
+A continuación se describen los pasos que se llevaron acabo para poder obtener nuestra clasificación de polímeros por medio de machine learning.
 
 <img src="Metodología.png" width=700>
 
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
+Desafortunadamente por el tiempo no logramos concretar la práctica, sin embargo los resultados esperados son los siguientes:
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
+<img src="untitled-3.png" width=400>, <img src="Metodología.png" width=400>
 
+Gracias al etiquetado de YOLO se pueden identificar en tiempo real, en este caso, las botellas de PET (ya que únicamente, se le indicó al programa que identificara este polímero)
 
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
+La clasificación de los polímeros, a veces puede ser un poco costosa, ya que se necesitan de pruebas analíticas para que puedan ser identificados, una de las ventajas que tiene el usar esta herramienta es que la máquina puede hacer ese trabajo.
+
+Es un programa eficiente y que puede identificar el plástico aunque la imagen sea borrosa, como es el caso siguiente:
+
+<img src="Metodología.png" width=400>
 
 
 ### Conclusiones
 
-Nuestro modelo  aún  necesita  de ajustes, pero  prodría mejorar  si añadimos más fotos  en donde  encontremos  botellas de plástico, ya que solo trabajamos con 200 fotos.
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+- Gracias a Machine learning se puede hacer esta clasificación, haciendo eficiente el proceso de separación de los polímeros.
+- Al tener el programa hecho con una buena optimización y siento totalmente funcional, se puede implementar a un robot, para que este haga la separación.
+    *La clasificación de los polímeros es muy importante a la hora de reciclar, ya que cada uno de ellos tiene características diferentes. 
+- Sin embargo, nuestro modelo aún necesita de ajustes y podría mejorar si añadimos más fotos en donde encontremos botellas de plástico.
+
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://youtu.be/G-BUlBx3gPE" title="CLUB 2_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
