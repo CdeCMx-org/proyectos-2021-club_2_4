@@ -1,4 +1,4 @@
-`<img src="Logo_CdeCMx.png" width=200>`
+<img src="Logo_CdeCMx.png" width=200>
 
 ## La segunda vida de los polímeros, ¿La conocias?
 
