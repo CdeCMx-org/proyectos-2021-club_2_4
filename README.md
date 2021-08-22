@@ -1,3 +1,5 @@
+`<img src="Logo_CdeCMx.png" width=200>`
+
 ## La segunda vida de los polímeros, ¿La conocias?
 
 ### Introducción
@@ -45,7 +47,9 @@ El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de ef
 
 ### Métodología
 
-<img src="Metodología.png" width=800>
+A continuación se describen los pasos que se llevaron acabo para poder obtener nuestra clasificación de polímeros por medio de learning machine.
+
+<img src="Metodología.png" width=700>
 
 
 ### Resultados
