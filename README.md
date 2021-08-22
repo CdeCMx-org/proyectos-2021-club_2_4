@@ -54,7 +54,7 @@ A continuación se describen los pasos que se llevaron acabo para poder obtener 
 
 Desafortunadamente por el tiempo no logramos concretar la práctica, sin embargo los resultados esperados son los siguientes:
 
-<img src="untitled-3.png" width=400>, <img src="Metodología.png" width=400>
+<img src="Botella_pet_1.png" width=400>, <img src="Botella_pet_2.png" width=400>
 
 Gracias al etiquetado de YOLO se pueden identificar en tiempo real, en este caso, las botellas de PET (ya que únicamente, se le indicó al programa que identificara este polímero)
 
@@ -62,7 +62,7 @@ La clasificación de los polímeros, a veces puede ser un poco costosa, ya que s
 
 Es un programa eficiente y que puede identificar el plástico aunque la imagen sea borrosa, como es el caso siguiente:
 
-<img src="Metodología.png" width=400>
+<img src="Botella_pet_borrosa.png" width=400>
 
 
 ### Conclusiones
