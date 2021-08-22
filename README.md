@@ -41,7 +41,7 @@ En el club vimos lo que era un polímero, así como diversas características de
 
 El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de efecto invernadero (CO2) a la atmósfera, ya que reducen el consumo de combustibles fósiles. Además su producción con el polímero reciclado requiere menor energía que con el polímero virgen.
 
-![](untitled-3.jpg)
+![](untitled-3.png)
 
 ### Métodología
 
