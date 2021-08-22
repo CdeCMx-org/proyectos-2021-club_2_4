@@ -63,6 +63,7 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
+Nuestro modelo  aún  necesita  de ajustes, pero  prodría mejorar  si añadimos más fotos  en donde  encontremos  botellas de plástico, ya que solo trabajamos con 200 fotos.
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
 ### Video
