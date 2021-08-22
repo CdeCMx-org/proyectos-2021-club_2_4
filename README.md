@@ -2,11 +2,20 @@
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+## ¿Qué es un polímero? 
+
+Un polímero es una cadena de unidades de repetición o monómeros que se unen y repiten formando una macromolécula (decenas de millones de unidades repetidas) o polímero.
+
+## Clasificación de polímeros de acuerdo a sus propiedades térmicas
+
+Los polímeros se pueden clasificar de acuerdo a sus propiedades térmicas y al enlace de su cadena:
+
+_Termoplásticos_: Son aquellos que a altas temperaturas pueden fundirse, convirtiéndose en maleables, no están unidos por un enlace químico.
+
+_Termoestables:_ Son polímeros unidos mediante enlaces químicos adquiriendo una estructura final altamente reticulada, por lo que no son maleables. 
+
+_Elastómeros:_ Son polímeros que se pueden estirar con facilidad y regresar a su forma inicial, están unidos por un enlace químico, pero es menor a comparación de los termoestables. 
+
 
 ### Métodología
 
