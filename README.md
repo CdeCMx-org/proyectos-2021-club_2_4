@@ -75,7 +75,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Johanna López Jáurez
-* María Alejandra Correa Sauri
 * Flor Esmeralda Contreras Escobar
 
 
