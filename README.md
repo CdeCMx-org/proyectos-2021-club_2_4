@@ -70,7 +70,7 @@ Es un programa eficiente y que puede identificar el plástico aunque la imagen s
 - Gracias a Machine learning se puede hacer esta clasificación, haciendo eficiente el proceso de separación de los polímeros.
 - Al tener el programa hecho con una buena optimización y siento totalmente funcional, se puede implementar a un robot, para que este haga la separación.
     *La clasificación de los polímeros es muy importante a la hora de reciclar, ya que cada uno de ellos tiene características diferentes. 
-- Sin embargo, nuestro modelo aún necesita de ajustes y podría mejorar si añadimos más fotos en donde encontremos botellas de plástico.
+- Sin embargo, nuestro modelo aún necesita de ajustes y podría mejorar si añadimos más fotos en donde encontremos botellas de plástico, para así reducir los errores de identificación.
 
 
 ### Video
