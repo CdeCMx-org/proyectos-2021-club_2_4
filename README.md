@@ -45,7 +45,7 @@ El reciclaje de los polímeros ayuda a que emitan menos emisiones de gases de ef
 
 ### Métodología
 
-
+![](Metodología.png)
 
 ### Resultados
 
